@@ -1,4 +1,4 @@
-# CindyJS web site
+# CindyJS- A cool web site
 
 This repository contains the sources from which
 [the CindyJS web site](http://cindyjs.org/) is built.
@@ -19,7 +19,7 @@ Then enter the just downloaded folder `website` and install all dependencies wit
 
 `npm install`
 
-In oder to set up the local web-server for the website run
+In order to set up the local web-server for the website run
 
 `npm start`
 
